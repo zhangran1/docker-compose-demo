@@ -14,3 +14,6 @@ Inspect running containers
 ```shell
 docker ps
 ```
+
+# Post training Exercise
+Expose Port 8080 for frontend instead of port 80
